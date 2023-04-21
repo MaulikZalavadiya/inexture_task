@@ -2,7 +2,7 @@
 # clone the repositry
   ### git clone https://github.com/MaulikZalavadiya/inexture_task.git
 
-#create a virtual env inside project folder and activate it
+# create a virtual env inside project folder and activate it
   ### python3 -m venv <virtual_env_name> && . virtual_env/bin/activate
 
 # install the requirements.txt file
